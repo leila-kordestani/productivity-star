@@ -1,6 +1,8 @@
 Ideas for extensions of this project.
 
+
 Leila additions:
 1) Add Statistics page for time periods
 2) Use sqlite3 to make database to store statistics
 3) Create multiple color/theme options for the program. Allow user to toggle.
+
