@@ -1,0 +1,17 @@
+This program is designed to be a study tool, inspired by Coursera's
+'Learning How to Learn' MOOC. It integrates proven study hacks like Pomodoros,
+interleaving (i.e. studying many different topics within the same study
+session), and focused/diffuse modes of learning.
+
+The random selection of tasks in this program eliminates the temptation to
+procrastinate. It has been found that once you start on a dreaded task, the
+amount of pain and fear tied to that task quickly decreases.
+
+In addition, by studying vastly different topics in the same session your brain
+becomes accustomed to jumping around and becomes more flexible, in both its
+ability for recall and for coming up with creative solutions.
+
+Use your favorite Pomodoro timer app and don't forget to stop working during
+the breaks to let your diffuse learning mode kick in.
+
+***** Good luck! Happy Studying! *****
